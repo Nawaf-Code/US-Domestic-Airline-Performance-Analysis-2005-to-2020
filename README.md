@@ -14,7 +14,7 @@ The project is implemented in Python using various libraries such as Pandas, Das
 
 ## Data Source
 
-The airline data is sourced from the following URL: 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/airline_data.csv'.
+The airline data is sourced from the following URL: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/airline_data.csv .
 
 ## Functionality
 
