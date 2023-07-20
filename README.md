@@ -29,10 +29,9 @@ Users can also select a specific year within the range of 2005 to 2020 for data 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory using the terminal or command prompt.
 3. Install the required Python packages from the `requirements.txt` file using the following command:
-'''sh
+```sh
 pip install -r requirements.txt
-
-'''
-'''sh
+```
+```sh
 python3 app.py
-'''
+```
