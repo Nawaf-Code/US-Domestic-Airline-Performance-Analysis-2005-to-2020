@@ -40,4 +40,4 @@ pip install -r requirements.txt
 ```sh
 python3 app.py
 ```
-*Thank you for exploring this project!*
+*Thank you for exploring my project*
