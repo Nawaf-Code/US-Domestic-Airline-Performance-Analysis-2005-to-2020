@@ -32,6 +32,8 @@ Users can also select a specific year within the range of 2005 to 2020 for data 
 ```sh
 pip install -r requirements.txt
 ```
+4. After installing the required packages, run the Python script using the following command:
 ```sh
 python3 app.py
 ```
+*Thank you for exploring this project!*
