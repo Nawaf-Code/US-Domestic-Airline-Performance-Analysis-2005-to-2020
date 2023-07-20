@@ -24,6 +24,10 @@ The project offers an interactive web application created with Dash, allowing us
 
 Users can also select a specific year within the range of 2005 to 2020 for data visualization.
 
+## Screenshot of Dashboard
+
+![Screenshot](https://github.com/Nawaf-Code/US-Domestic-Airline-Performance-Analysis-2005-to-2020/assets/98234284/a2db1a85-1df6-4141-b490-ef1a690a78d6)
+
 ## How to Run
 
 1. Clone this repository to your local machine.
